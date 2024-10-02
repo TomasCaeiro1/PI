@@ -26,12 +26,13 @@ El dashboard también muestra una comparación entre los distintos tipos de tecn
 ### Análisis de Velocidad de Internet
 ##### Velocidad Promedio por Provincia
 El siguiente dashboard presenta la distribución de la velocidad de Internet por provincia. Se destacan tanto las velocidades medias como las provincias con las velocidades más altas y más bajas.
-##Conclusiones
+
+## Conclusiones
 El análisis de los datos sobre el acceso a Internet y las velocidades a nivel provincial sugiere varias conclusiones clave:
 
 - Desigualdad en la conectividad: Existe una clara brecha digital entre las provincias, con algunas regiones muy avanzadas en términos de acceso y velocidad, mientras que otras aún tienen una infraestructura limitada.
 - Potencial de crecimiento: El aumento en la velocidad de Internet, así como un mayor acceso, podrían tener un impacto significativo en los ingresos generados por los servicios de Internet, especialmente en las provincias menos conectadas.
-- Recomendaciones: Se sugiere invertir en mejorar la infraestructura de Internet en las provincias con menor acceso y velocidad, ya que esto no solo aumentaría la calidad de vida de los ciudadanos, sino que también impulsaría el crecimiento económico a nivel regional.
+
 
 ## Recomendaciones
 Con base en los resultados obtenidos, se proponen las siguientes acciones:
