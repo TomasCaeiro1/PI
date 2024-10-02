@@ -15,16 +15,16 @@ Este proyecto se centra en el análisis de los datos sobre el acceso a Internet 
 - **KPI 3**: En este indicador, calculé los ingresos proyectados y el acceso a Internet por cada 100 habitantes, considerando un incremento del 6% en la velocidad de conexión.
 
 ## Analisis del dashboard
-###Introducción
+### Introducción
 Este reporte tiene como objetivo analizar el acceso y uso de Internet en las diferentes provincias del país, con un enfoque particular en la velocidad de Internet y su impacto en los ingresos proyectados. Los dashboards generados en Power BI permiten una exploración interactiva de estos datos, facilitando la identificación de patrones y tendencias relevantes para la toma de decisiones.
 
 ### Análisis de Acceso a Internet
-#####Descripción General
+##### Descripción General
 En el primer dashboard se presenta un resumen general del acceso a Internet en las distintas provincias. Las visualizaciones destacan la distribución del acceso a las tecnologías disponibles
-###Comparación de Tecnologías
+### Comparación de Tecnologías
 El dashboard también muestra una comparación entre los distintos tipos de tecnología de acceso a Internet.
-###Análisis de Velocidad de Internet
-#####Velocidad Promedio por Provincia
+### Análisis de Velocidad de Internet
+##### Velocidad Promedio por Provincia
 El siguiente dashboard presenta la distribución de la velocidad de Internet por provincia. Se destacan tanto las velocidades medias como las provincias con las velocidades más altas y más bajas.
 ##Conclusiones
 El análisis de los datos sobre el acceso a Internet y las velocidades a nivel provincial sugiere varias conclusiones clave:
@@ -33,7 +33,7 @@ El análisis de los datos sobre el acceso a Internet y las velocidades a nivel p
 - Potencial de crecimiento: El aumento en la velocidad de Internet, así como un mayor acceso, podrían tener un impacto significativo en los ingresos generados por los servicios de Internet, especialmente en las provincias menos conectadas.
 - Recomendaciones: Se sugiere invertir en mejorar la infraestructura de Internet en las provincias con menor acceso y velocidad, ya que esto no solo aumentaría la calidad de vida de los ciudadanos, sino que también impulsaría el crecimiento económico a nivel regional.
 
-##Recomendaciones
+## Recomendaciones
 Con base en los resultados obtenidos, se proponen las siguientes acciones:
 
 - Inversión en Infraestructura: Priorizar las provincias con menor acceso y velocidades más bajas para mejorar la conectividad a nivel nacional.
